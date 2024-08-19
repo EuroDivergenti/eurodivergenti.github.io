@@ -9,6 +9,5 @@ Lorem ipsum ecc eecc
 Lorem ipsum
 
 ### Titolo di livello 3
-[ ] Cosa da fare
-
-[x] Cosa fatta
+- [ ] Cosa da fare
+- [x] Cosa fatta
