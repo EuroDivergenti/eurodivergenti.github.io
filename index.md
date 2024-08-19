@@ -18,4 +18,4 @@ Il seguente ddl ha scelto di criminalizzare la malattia psichiatrica. Il malato 
 
 È stabilita una gravissima presunzione di pericolosità sulla base di una diagnosi, mettendo così in pericolo la vita e la salute di milioni di persone. Ciò che esisteva prima della Riforma Basaglia è un orrore che tutti ricordiamo, non si può tornare indietro a quei tempi. 
 
-La nostra libertà non è in vendita.
+La nostra libertà non è in vendita!
