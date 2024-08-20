@@ -18,5 +18,3 @@ La volontà del DDL Zaffini sembra essere quella di smantellare la Riforma Basag
 Viene stabilita una gravissima presunzione di pericolosità basata su una diagnosi, mettendo così in pericolo la vita e la salute di milioni di persone. Ciò che esisteva prima della Riforma Basaglia è un orrore che tutti ricordiamo; non possiamo tornare indietro a quei tempi.
 
 La nostra libertà non è in vendita.
-
-
